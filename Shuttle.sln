@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22129.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuttle.Client", "Shuttle.Client\Shuttle.Client.csproj", "{9F50A512-455B-46C3-968B-F846881BE85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuttle.Contracts", "Shuttle.Contracts\Shuttle.Contracts.csproj", "{66186914-F478-40F0-829C-3C1ACF5A5579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuttle.Server", "Shuttle.Server\Shuttle.Server.csproj", "{27CD92E4-595A-46E9-8C69-B683EC5C257A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F50A512-455B-46C3-968B-F846881BE85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F50A512-455B-46C3-968B-F846881BE85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F50A512-455B-46C3-968B-F846881BE85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F50A512-455B-46C3-968B-F846881BE85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66186914-F478-40F0-829C-3C1ACF5A5579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66186914-F478-40F0-829C-3C1ACF5A5579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66186914-F478-40F0-829C-3C1ACF5A5579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66186914-F478-40F0-829C-3C1ACF5A5579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CD92E4-595A-46E9-8C69-B683EC5C257A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CD92E4-595A-46E9-8C69-B683EC5C257A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CD92E4-595A-46E9-8C69-B683EC5C257A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CD92E4-595A-46E9-8C69-B683EC5C257A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
