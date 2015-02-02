@@ -2,6 +2,6 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
-    <StartProgram>C:\Users\Roger\Documents\Visual Studio 14\Projects\Shuttle\Shuttle.Server\bin\Debug\Shuttle.Core.Host.exe</StartProgram>
+    <StartProgram>.\Shuttle.Server\bin\Debug\Shuttle.Core.Host.exe</StartProgram>
   </PropertyGroup>
 </Project>
